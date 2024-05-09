@@ -1,0 +1,18 @@
+body{
+    background: burlywood;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+a{
+    text-align: center;
+    text-decoration: green;
+    text-decoration: underline;
+}
+.container{
+    text-align: center;
+    display:inline-block
+}
